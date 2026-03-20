@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "Aternos_BOT",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "Testing_of_Bot.aternos.me",
-    "port": 49080,
+    "ip": "Vaylox_SMP.aternos.me",
+    "port": 45634,
     "version": "",
     "try-creative": false
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "I am Harshit's big Fan!",
+        "Subscribe to GlitZone_XP!",
+        "I am inspired by my owner and i love to suck!"
       ]
     },
     "chat-log": true,
